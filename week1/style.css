@@ -1,0 +1,21 @@
+.goedemorgen {
+    background-image: url('afbeeldingen/morning.png');
+}
+
+.goedemiddag {
+    background-image: url('afbeeldingen/afternoon.png');
+}
+
+.goedeavond {
+    background-image: url('afbeeldingen/evening.png');
+}
+
+.goedenacht {
+    background-image: url('afbeeldingen/night.png');
+}
+
+
+h1 {
+    text-align: center;
+    height: 1050px;
+}
